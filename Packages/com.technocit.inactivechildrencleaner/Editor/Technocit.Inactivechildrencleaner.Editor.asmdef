@@ -1,0 +1,10 @@
+{
+    "name": "Technocit.Inactivechildrencleaner.Editor",
+    "references": [
+      "Technocit.Inactivechildrencleaner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

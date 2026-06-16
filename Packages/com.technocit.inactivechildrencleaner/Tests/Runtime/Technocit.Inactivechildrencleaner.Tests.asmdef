@@ -1,0 +1,11 @@
+{
+    "name": "Technocit.Inactivechildrencleaner.Tests",
+    "references": [
+        "Technocit.Inactivechildrencleaner"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

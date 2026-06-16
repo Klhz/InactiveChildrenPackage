@@ -1,0 +1,14 @@
+{
+    "name": "Technocit.Inactivechildrencleaner.Editor.Tests",
+    "references": [
+        "Technocit.Inactivechildrencleaner.Editor",
+        "Technocit.Inactivechildrencleaner"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
